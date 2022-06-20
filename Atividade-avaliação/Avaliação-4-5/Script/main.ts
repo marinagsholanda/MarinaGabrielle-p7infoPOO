@@ -43,4 +43,6 @@ console.log("=========================");
 console.log(nf);
 console.log("=========================");
 
+nf.calcularValorNotaFiscal();
+
 nf.imprimirNotaFiscal();
